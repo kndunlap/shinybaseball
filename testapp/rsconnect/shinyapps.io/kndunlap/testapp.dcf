@@ -1,0 +1,10 @@
+name: testapp
+title:
+username: kndunlap
+account: kndunlap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12010557
+bundleId: 8620669
+url: https://kndunlap.shinyapps.io/testapp/
+version: 1
